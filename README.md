@@ -1,6 +1,6 @@
-# malicious-test-docker 
+# Malicious Test Docker Image 
 
-Malicious Docker Image - This docker image is intended will emulate malicious behavior to test EDR/Anti Virus solutions on Docker/Kubernetes Hosts/Clusters.
+This docker image is intended to emulate malicious behavior to test EDR/Anti Virus solutions on Docker/Kubernetes Hosts/Clusters.
 
 ## How To Run
 ```
@@ -11,8 +11,8 @@ docker run malicious-test-docker:latest
 
 ## What Tests are Running?
 
-# Anti Virus
+### Anti Virus
 [EICAR Malware Sample](https://www.wicar.org/test-malware.html)
 
-# Network Endpoint Protection
+### Network Endpoint Protection
 [Flightsim Malicious Network Sample](https://github.com/alphasoc/flightsim)
