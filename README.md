@@ -12,7 +12,7 @@ docker run malicious-test-docker:latest
 ## What Tests are Running?
 
 # Anti Virus
-(EICAR Malware Sample)[https://www.wicar.org/test-malware.html]
+[EICAR Malware Sample](https://www.wicar.org/test-malware.html)
 
 # Network Endpoint Protection
-(Flightsim Malicious Network Sample)[https://github.com/alphasoc/flightsim]
+[Flightsim Malicious Network Sample](https://github.com/alphasoc/flightsim)
