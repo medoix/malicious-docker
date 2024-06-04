@@ -4,9 +4,9 @@ This docker image is intended to emulate malicious behavior to test EDR/Anti Vir
 
 ## How To Run
 ```
-git clone https://gitlab.com/medoix/malicious-test-docker && cd malicious-test-docker
-docker build -t malicious-test-docker:latest . 
-docker run malicious-test-docker:latest
+git clone https://github.com/medoix/malicious-docker && cd malicious-docker
+docker build -t malicious-docker:latest .
+docker run malicious-docker:latest
 ```
 
 ## What Tests are Running?
